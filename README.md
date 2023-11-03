@@ -151,9 +151,5 @@ http://www.36nu.com/apiTest
 
 接口6：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 
-试试吧，不一定对。
-
-### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
+试试吧，仅供参考，不一定对。
 
