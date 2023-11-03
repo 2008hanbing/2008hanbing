@@ -15,7 +15,7 @@
 "logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key": "csp_XYQHiker_乐猪影视","name": "🐷二师兄TV20230628","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ssiop789/XC/raw/branch/master/sub/乐猪TV.json","jar":"https://pan.shangui.cc/f/8XPio/custom_spider.jar;md5;38eccad4d97381c63744fa26c4049e99"},
+{"key": "csp_XYQHiker_乐猪影视","name": "🐷二师兄TV20231103","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ssiop789/XC/raw/branch/master/sub/乐猪TV.json","jar":"https://pan.shangui.cc/f/8XPio/custom_spider.jar;md5;38eccad4d97381c63744fa26c4049e99"},
 {"key":"csp_Jianying","name":"🎆简影影视┃SP","type":3,"api":"csp_Jianying","searchable":1,"quickSearch":1,"filterable":1,"ext":"hjju123@qq.com$$$123456","jar":"https://pan.shangui.cc/f/0D6PTj/分享者-0628.jar;md5;379908ecad4a28632de75cde39f8eb20"},
 //{"key":"Tutu_spider","name":"🐰图图影视┃SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"Sg7h4QoLLBzVV4acSRK#Huo0NEBdouelqiaojiSqX2k4qbYGi3o6sY","jar":"https://pan.shangui.cc/f/GZzbtz/fix0610.jar;md5;a264d33e664119fed5af99338def9ca4"},
 //{"key":"csp_AppTT","name": "🐰图图影视┃SP","type":3,"api": "csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83"},
