@@ -1,6 +1,4 @@
 
-
-TVBox 
 ## 1. TVBox 开源版 
 - TVBox1.0.0 ，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 移植了影视仓的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。  
