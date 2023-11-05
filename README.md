@@ -1,6 +1,6 @@
 
 
-# TVBox 自用线路 请勿传播
+# TVBox 
 ### 1. TVBox 开源版 
 - TVBox1.0.0 ，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 移植了影视仓的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。  
@@ -10,19 +10,17 @@
 ### 2. 下载地址
  - [TVbox开源版---密999](https://wws.lanzouq.com/b03j4ulyh#999)  
  
-
- ------
-
+ -----
 
 - [使用方法](./usage.md)
 
 ### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
 
-1、https://gitea.com/
+1、https://github.com/
 
-2、https://gitee.com/
+2、https://agit.ai/explore/repos/
 
-3、云储： https://yunchu.cxoip.com/
+3、码云： https://gitee.com/
 
 4、腾讯云： https://coding.net/
 
@@ -113,43 +111,6 @@ http://www.kf666888.cn/api/tvbox/img
 https://picsum.photos/1280/720/?blur=10
 
 https://qiu.moe/a723
-
-
-## 解析测试：
-
-http://www.36nu.com/apiTest
-
-### 更新
-
-## 多jar链接写法，根据app版本来：
-
-## Pluto Player版本：
-
-{"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
-
-## 这个：
-
-{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://****/*.jar"},
-
-## 俊佬版本多jar链接写法：
-
-{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
-
-
-
-### 天天维护的接口，慢慢收集
-
-接口1:http://刚刚.live/猫
-
-接口2:http://maoyingshi.cc/tvbox/云星日记/1.m3u8
-
-接口3:https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
-
-接口4:http://xiaoz123.ysepan.com/
-
-接口5：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
-
-接口6：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 
 试试吧，仅供参考，不一定对。
 
