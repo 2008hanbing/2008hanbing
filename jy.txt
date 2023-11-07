@@ -8,7 +8,45 @@
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://agit.ai/30215429/TVBox/raw/branch/master/jar/alisz.jar"},
 
-{"key": "极速资源xl","name": "👁‍🗨极速资源xl┃SP","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+   {      
+        "key":"MV",
+        "name":"🔥软件教程A",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://download.kstore.space/download/2883/Bili.json",
+        "jar":"https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"},
+    {
+      "key": "软件",
+      "name": "🔥软件教程B",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/oN0I7/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+    },   {      
+        "key":"MV",
+        "name":"🔥软件教程A",
+        "type":3,
+        "api":"csp_Bili",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://download.kstore.space/download/2883/Bili.json",
+        "jar":"https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"},
+    {
+      "key": "软件",
+      "name": "🔥软件教程B",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/oN0I7/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+    },{"key": "极速资源xl","name": "👁‍🗨极速资源xl┃SP","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 
 {"key": "玩偶弹幕","name": "💇🏻‍♀️玩偶｜弹幕","type": 3,"api": "csp_Wogg","playerType":2,"searchable": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": {"token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","filter": "http://127.0.0.1:9978/file/TVBox/MaooXB2/wogg.json","danmu": true},"jar": "https://agit.ai/30215429/TVBox/raw/branch/master/jar/DM.jar;md5;55e862e99abc65a94aafa94881866fb7"},
 
