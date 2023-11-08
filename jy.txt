@@ -47,6 +47,9 @@
       "ext": "https://pan.shangui.cc/f/oN0I7/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
     },
 
+
+{"key":"玩偶哥哥T4","name":"🔥秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=9dc3ed1d1fc04e17a69d196a5aaeb16e","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://agit.ai/30215429/TVBox/raw/branch/master/jar/alisz.jar"},
 
 {"key": "极速资源xl","name": "👁‍🗨极速资源xl┃SP","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
