@@ -320,8 +320,9 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com ... 21226462/index.m3u8
 4MH爱初心,http://tx-screenshots.flv.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.flv?
 4MH铁血汉,http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.flv?
 4MH我宝贝,http://tx-screenshots.flv.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.flv?
-4MH寞尛北,http://tx-screenshots.flv.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.flv?
-澳門莲花㊣版,https://p.ggiptv.com/v/macaulotustv.php
+4MH寞尛北,http://tx-screenshots.flv.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.flv
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8澳門莲花㊣版,https://p.ggiptv.com/v/macaulotustv.php
 福星高照㊣代,https://pull.kktv8.com/livekktv/99592190.flv
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 凌儿影院㊣版,http://maomao.kandiantv.cn/douyu1.php?id=1377142
