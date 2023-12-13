@@ -70,19 +70,7 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 
 
 ❤️地方卫视,#genre#
-广东卫视,http://113.68.67.196:9901/hls/17/index.m3u8
-广东体育,http://113.68.67.196:9901/hls/53/index.m3u8
-广东科教,http://113.68.67.196:9901/hls/59/index.m3u8
-广东影视,http://113.68.67.196:9901/hls/60/index.m3u8
-广东珠江,http://113.68.67.196:9901/hls/50/index.m3u8
-广东新闻,http://113.68.67.196:9901/hls/51/index.m3u8
-广东少儿,http://113.68.67.196:9901/hls/61/index.m3u8
-广东嘉佳卡通,http://113.68.67.196:9901/hls/62/index.m3u8
-广东大湾区卫视,http://113.68.67.196:9901/hls/18/index.m3u8
-广州综合,http://113.68.67.196:9901/hls/54/index.m3u8
-广州新闻,http://113.68.67.196:9901/hls/55/index.m3u8
-广州影视,http://113.68.67.196:9901/hls/56/index.m3u8
-广州法治,http://113.68.67.196:9901/hls/57/index.m3u8汕头经济生活,http://113.66.36.120:8888/rtp/239.253.43.46:5146
+
 汕头文旅体育,http://113.66.36.120:8888/rtp/239.253.43.47:5146
 汕头综合,http://yuming.dsmynas.com:8888/udp/239.21.0.101:3744
 汕头生活,http://yuming.dsmynas.com:8888/udp/239.21.0.102:3748
