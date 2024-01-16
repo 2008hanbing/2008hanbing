@@ -1,6 +1,6 @@
 {
  "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
- "warningText":"🎥写一篇太空旅行的市场分析报告🎥",
+ "warningText":"🎥天王盖地虎 宝塔镇河妖🎥",
 "sites":[
 
 {"key":"ys01","name":"🐿️影视┃一线","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","电影","电视剧","动漫","综艺","记录片","音乐","影视解说","体育"]},
